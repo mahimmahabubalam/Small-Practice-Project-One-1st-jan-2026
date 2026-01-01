@@ -1,5 +1,8 @@
 # Small-Practice-Project-One-1st-jan-2026
 **Single-page CV built with semantic HTML and CSS, featuring SEO meta tags, Open Graph support, favicon, and A4-friendly clean design.**
+
+https://roadmap.sh/projects/single-page-cv/solutions?u=695437f5aec1bfa6b4a7219d
+
 # Single Page CV
 
 This is a **single-page CV website** built using **semantic HTML** as part of the  
